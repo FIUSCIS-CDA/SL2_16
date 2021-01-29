@@ -475,14 +475,6 @@ refer to the applicable agreement for further details.
 	(bus)
 )
 (connector
-	(pt 360 1384)
-	(pt 528 1384)
-)
-(connector
-	(pt 360 1288)
-	(pt 528 1288)
-)
-(connector
 	(text "Y[0]" (rect 632 1368 653 1380)(font "Arial" ))
 	(pt 624 1384)
 	(pt 776 1384)
@@ -813,6 +805,15 @@ refer to the applicable agreement for further details.
 	(pt 776 -248)
 )
 (connector
+	(pt 360 1384)
+	(pt 528 1384)
+)
+(connector
+	(pt 360 1288)
+	(pt 528 1288)
+)
+(connector
+	(text "Ground" (rect 344 1345 361 1379)(font "Intel Clear" )(vertical))
 	(pt 360 1288)
 	(pt 360 1384)
 )
