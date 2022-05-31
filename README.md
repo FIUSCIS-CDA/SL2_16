@@ -1,5 +1,5 @@
 #### MODULE NAME
-       SPLICE_SL2
+       SL2_16
 
 #### DEPENDENCIES
        SameBit
