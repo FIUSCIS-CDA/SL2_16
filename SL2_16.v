@@ -17,7 +17,7 @@
 // VERSION		"Version 20.1.1 Build 720 11/11/2020 SJ Lite Edition"
 // CREATED		"Tue May 17 13:39:59 2022"
 
-module SPLICE_SL2(
+module SL2_16(
 	A,
 	Y
 );
